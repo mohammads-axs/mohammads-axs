@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammads-axs
+- 👋 Hi, I’m @mohammads-axs - Mohammad Shoaib
 - 👀 I’m interested in Dynamics 365 for Operations and Finance 
 - 🌱 I’m currently learning using GIT for CD/CI
 - 💞️ I’m looking to collaborate on D365F&O fun projects
